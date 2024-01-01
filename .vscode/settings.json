@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "C:/src/super_search/linux",
+    "dotnet.defaultSolution": "disable",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
